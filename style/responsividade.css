@@ -103,6 +103,10 @@
     main{
         height:90vh;
     }
+    .image-user img{
+        height:0;
+        width:0;
+    }
     .botao-link{
         margin-top:15px;
         font-size: 14px;
