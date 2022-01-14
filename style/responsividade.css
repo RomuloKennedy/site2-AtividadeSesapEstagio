@@ -103,6 +103,10 @@
     main{
         height:90vh;
     }
+    .botao-link{
+        margin-top:15px;
+        font-size: 14px;
+    }
     footer{
         height:0px;
         width:0px;
