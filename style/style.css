@@ -131,17 +131,7 @@ footer a{
     text-decoration: none;
     color:#fff;
 }
-footer img{
-    max-height:8%;
-    max-width: 8%;
-}
-.footer-contain{
 
-    display: flex;
-    justify-content: space-around;
-
-    
-}
 .image-user img{
     max-height:70px;
     max-width:100px;
